@@ -3,6 +3,6 @@
 - Project Spec can be found in spec.md, of which option 2 was completed.
 - To run application:
     - An example input data file is provided called geobacter.fasta
-    - To display output on terminal, use this command: ./geneannot.pl <inputFileName>
-    - To save ouput to a file, use this command: ./geneannot.pl <inputFileName> <outputFileName>
+    - To display output on terminal, use this command: ```./geneannot.pl <inputFileName>```
+    - To save ouput to a file, use this command: ```./geneannot.pl <inputFileName> <outputFileName>```
 - A final mark of 87/100 was awarded and was worth 15% of grade.
